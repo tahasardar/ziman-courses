@@ -1,0 +1,55 @@
+{
+  "formatVersion": 2,
+  "id": "en_from_ba",
+  "title": "English For Kurdish Bahdini Speaker",
+  "language": "en",
+  "native": "ba",
+  "description": "This an English Course For Kurdish Bahdinan Speaker Created By Taha Sardar",
+  "imageUrl": "",
+  "words": [],
+  "levels": [
+    {
+      "code": "A1",
+      "units": [
+        {
+          "title": "Unit 1",
+          "intro": [
+            {
+              "type": "text",
+              "text": "ڤی کورسی دا تو دێ فێر ببم چەوا ب ئینگلیزی سلاڤ کەی",
+              "imageUrl": "",
+              "hints": [],
+              "tableRows": []
+            }
+          ],
+          "lessons": [
+            {
+              "title": "Lesson 1",
+              "rows": [
+                {
+                  "title": "Row 1",
+                  "questions": [
+                    {
+                      "type": "multiple_choice",
+                      "prompt": "",
+                      "emoji": "",
+                      "svg": "",
+                      "imageUrl": "",
+                      "options": [],
+                      "answer": "",
+                      "pairs": [],
+                      "explanation": "",
+                      "accept": [],
+                      "hints": [],
+                      "choices": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
