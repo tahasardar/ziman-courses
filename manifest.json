@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated": "2026-07-11T21:20:01.371058Z",
+  "courses": [
+    {
+      "id": "en_ba",
+      "title": "English For Kurdish (Bahdini Speaker)",
+      "language": "en",
+      "native": "ba",
+      "level": "A1",
+      "description": "hi everyone",
+      "imageUrl": "",
+      "file": "courses/en_ba.json",
+      "units": 1,
+      "lessons": 1
+    }
+  ]
+}
