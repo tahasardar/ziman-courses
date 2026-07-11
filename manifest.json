@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-07-11T21:20:01.371058Z",
+  "version": 2,
+  "updated": "2026-07-11T21:44:34.557344Z",
   "courses": [
     {
       "id": "en_ba",
@@ -11,6 +11,20 @@
       "description": "hi everyone",
       "imageUrl": "",
       "file": "courses/en_ba.json",
+      "units": 1,
+      "lessons": 1
+    },
+    {
+      "id": "en_from_ba",
+      "title": "English For Kurdish Bahdini Speaker",
+      "language": "en",
+      "native": "ba",
+      "levels": [
+        "A1"
+      ],
+      "description": "This an English Course For Kurdish Bahdinan Speaker Created By Taha Sardar",
+      "imageUrl": "",
+      "file": "courses/en_from_ba.json",
       "units": 1,
       "lessons": 1
     }
