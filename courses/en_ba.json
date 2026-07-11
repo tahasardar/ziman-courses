@@ -1,0 +1,85 @@
+{
+  "formatVersion": 1,
+  "id": "en_ba",
+  "title": "English For Kurdish (Bahdini Speaker)",
+  "language": "en",
+  "native": "ba",
+  "level": "A1",
+  "description": "hi everyone",
+  "imageUrl": "",
+  "words": [
+    {
+      "text": "What",
+      "meanings": [
+        "چ",
+        "چەوا",
+        "چێ"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "text": "is",
+      "meanings": [
+        "."
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "text": "your",
+      "meanings": [
+        "یێ تە"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "text": "name",
+      "meanings": [
+        "ناڤ",
+        "ناڤلێکرن"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    }
+  ],
+  "units": [
+    {
+      "title": "Unit 1",
+      "introTitle": "this is unite 1",
+      "introText": "",
+      "introImageUrl": "",
+      "lessons": [
+        {
+          "title": "Lesson 1",
+          "rows": [
+            {
+              "type": "multiple_choice",
+              "prompt": "ناڤ",
+              "emoji": "",
+              "svg": "",
+              "imageUrl": "",
+              "options": [
+                "name",
+                "what",
+                "is"
+              ],
+              "answer": "",
+              "pairs": [],
+              "explanation": "",
+              "accept": [],
+              "hints": [
+                {
+                  "a": "name",
+                  "b": "ناڤ"
+                }
+              ],
+              "choices": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
