@@ -1,0 +1,82 @@
+{
+  "courseId": "en_from_ba",
+  "count": 8,
+  "words": [
+    {
+      "id": "w1783807422178226",
+      "text": "what",
+      "meanings": [
+        "چ",
+        "چێ"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "w1783807433567933",
+      "text": "is",
+      "meanings": [
+        "."
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "w1783807450832141",
+      "text": "your",
+      "meanings": [
+        "یێ تە",
+        "تە"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "w1783807467366696",
+      "text": "name",
+      "meanings": [
+        "ناڤ",
+        "ناڤلێکرن"
+      ],
+      "emoji": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "w1783808265453193",
+      "text": "apple",
+      "meanings": [
+        "سێڤ"
+      ],
+      "emoji": "",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808253505_scaled_pngtree-fresh-fruit-apple-png-image_13318561.png"
+    },
+    {
+      "id": "w1783808231474719",
+      "text": "grape",
+      "meanings": [
+        "تری"
+      ],
+      "emoji": "",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808224024_scaled_pngtree-delicious-black-grapes-png-image_20004046.png"
+    },
+    {
+      "id": "w1783808244680108",
+      "text": "orange",
+      "meanings": [
+        "پرتەقال",
+        "رەنگی پرتەقالی"
+      ],
+      "emoji": "",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808235652_scaled_Large_Oranges_PNG_Clipart.png"
+    },
+    {
+      "id": "w1783808278832155",
+      "text": "banana",
+      "meanings": [
+        "موز"
+      ],
+      "emoji": "",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808213831_scaled_pngtree-banana-yellow-fruit-banana-skewers-png-image_5944324.png"
+    }
+  ]
+}
