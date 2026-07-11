@@ -1,22 +1,22 @@
 {
   "formatVersion": 2,
   "id": "en_from_ba",
-  "title": "English For Kurdish Bahdini Speaker",
+  "title": "English For Kurdish Bahdinan Speaker",
   "language": "en",
   "native": "ba",
-  "description": "This an English Course For Kurdish Bahdinan Speaker Created By Taha Sardar",
+  "description": "",
   "imageUrl": "",
-  "words": [],
   "levels": [
     {
       "code": "A1",
       "units": [
         {
           "title": "Unit 1",
+          "subtitle": "سلاڤکرن و ناسین",
           "intro": [
             {
               "type": "text",
-              "text": "ڤی کورسی دا تو دێ فێر ببم چەوا ب ئینگلیزی سلاڤ کەی",
+              "text": "دڤێ یەکێ دا دێ فێری وانێت سادە بی",
               "imageUrl": "",
               "hints": [],
               "tableRows": []
@@ -31,17 +31,87 @@
                   "questions": [
                     {
                       "type": "multiple_choice",
-                      "prompt": "",
+                      "prompt": "چ",
+                      "emoji": "",
+                      "svg": "",
+                      "imageUrl": "",
+                      "options": [
+                        "what",
+                        "your",
+                        "name"
+                      ],
+                      "answer": "what",
+                      "pairs": [],
+                      "explanation": "",
+                      "accept": [],
+                      "hints": [
+                        {
+                          "a": "چ",
+                          "b": "what"
+                        }
+                      ],
+                      "choices": [],
+                      "wordId": "w1783807422178226",
+                      "optionIds": [
+                        "w1783807422178226",
+                        "w1783807450832141",
+                        "w1783807467366696"
+                      ],
+                      "word": "what",
+                      "meaning": "چ"
+                    },
+                    {
+                      "type": "image_choice",
+                      "prompt": "سێڤ",
                       "emoji": "",
                       "svg": "",
                       "imageUrl": "",
                       "options": [],
-                      "answer": "",
+                      "answer": "apple",
                       "pairs": [],
                       "explanation": "",
                       "accept": [],
-                      "hints": [],
-                      "choices": []
+                      "hints": [
+                        {
+                          "a": "سێڤ",
+                          "b": "apple"
+                        }
+                      ],
+                      "choices": [
+                        {
+                          "text": "apple",
+                          "emoji": "",
+                          "svg": "",
+                          "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808253505_scaled_pngtree-fresh-fruit-apple-png-image_13318561.png"
+                        },
+                        {
+                          "text": "grape",
+                          "emoji": "",
+                          "svg": "",
+                          "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808224024_scaled_pngtree-delicious-black-grapes-png-image_20004046.png"
+                        },
+                        {
+                          "text": "orange",
+                          "emoji": "",
+                          "svg": "",
+                          "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808235652_scaled_Large_Oranges_PNG_Clipart.png"
+                        },
+                        {
+                          "text": "banana",
+                          "emoji": "",
+                          "svg": "",
+                          "imageUrl": "https://cdn.jsdelivr.net/gh/tahasardar/ziman-courses@main/images/1783808213831_scaled_pngtree-banana-yellow-fruit-banana-skewers-png-image_5944324.png"
+                        }
+                      ],
+                      "wordId": "w1783808265453193",
+                      "optionIds": [
+                        "w1783808265453193",
+                        "w1783808231474719",
+                        "w1783808244680108",
+                        "w1783808278832155"
+                      ],
+                      "word": "apple",
+                      "meaning": "سێڤ"
                     }
                   ]
                 }
@@ -51,5 +121,6 @@
         }
       ]
     }
-  ]
+  ],
+  "wordsFile": "courses/en_from_ba.words.json"
 }
